@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Visitor.Example example = new Visitor.Example();
+
+            Behavioral.Visitor.Example example = new Behavioral.Visitor.Example();
 
             example.Example1();
             example.Example2();
