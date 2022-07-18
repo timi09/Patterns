@@ -16,9 +16,14 @@
             //example.Example1();
             //example.Example2();
 
-            Creational.Singleton.Example example = new();
+            //Creational.Singleton.Example example = new();
+
+            //example.Example1();
+
+            Structural.Decorator.Example example = new();
 
             example.Example1();
+            example.Example2();
         }
     }
 }
