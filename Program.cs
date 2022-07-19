@@ -20,10 +20,16 @@
 
             //example.Example1();
 
-            Structural.Decorator.Example example = new();
+            //Structural.Decorator.Example example = new();
+
+            //example.Example1();
+            //example.Example2();
+
+            Creational.Factory_Method.Example example = new();
 
             example.Example1();
             example.Example2();
+
         }
     }
 }
