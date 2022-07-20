@@ -25,11 +25,14 @@
             //example.Example1();
             //example.Example2();
 
-            Creational.Factory_Method.Example example = new();
+            //Creational.Factory_Method.Example example = new();
+
+            //example.Example1();
+            //example.Example2();
+
+            Creational.Abstract_Factory.Example example = new();
 
             example.Example1();
-            example.Example2();
-
         }
     }
 }
