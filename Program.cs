@@ -30,7 +30,11 @@
             //example.Example1();
             //example.Example2();
 
-            Creational.Abstract_Factory.Example example = new();
+            //Creational.Abstract_Factory.Example example = new();
+
+            //example.Example1();
+
+            Structural.Adapter.Example example = new();
 
             example.Example1();
         }
