@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Behavioral.Strategy.Example example = new();
+            Behavioral.Template_Method.Example example = new();
 
             example.Example1();
         }
